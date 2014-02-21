@@ -1,6 +1,6 @@
 # AccessGranted::Rails
 
-This is a Rails-flavoured overlay for [AccessGranted](https://github.com/pokonski/access-granted)
+This is a Rails-flavoured extension of [AccessGranted](https://github.com/pokonski/access-granted)
 
 ## Installation
 
